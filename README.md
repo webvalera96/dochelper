@@ -19,6 +19,12 @@ npm install
 npm run package
 ```
 
+## Использование
+
+1. Открыть папку в VSCode
+2. Ctrl+Shift+P
+3. Выбрать команду Doc - Get docs checksum (sha256)
+
 ## История изменений
 
 0.0.1 прототип
